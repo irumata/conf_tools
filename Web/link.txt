@@ -1,0 +1,1 @@
+https://dlchallenget.bubbleapps.io/version-test?debug_mode=true
